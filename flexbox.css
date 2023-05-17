@@ -1,0 +1,128 @@
+.container{
+ 
+    display:flex;
+    border: 2px solid grey;
+    justify-content: center;/*x coordinate*/
+    align-items: center;/*y coordinate*/
+    
+   }
+   .item{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 3;
+   }
+   .containera{
+    display:flex;
+    border: 2px solid grey;
+    justify-content: center;/*x coordinate*/
+    align-items: center;/*y coordinate*/
+   }
+   .item1{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 4;
+   }
+   .containerb{
+    display:flex;
+    border: 2px solid grey;
+    justify-content: center;/*x coordinate*/
+    align-items: center;/*y coordinate*/
+   }
+   .item2{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 2;
+   }
+   .containerc{
+    display:flex;
+    border: 2px solid grey;
+    justify-content: center;/*x coordinate*/
+    align-items: center;/*y coordinate*/
+   }
+   .item3{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 2;
+   }
+   .containerd{
+    display:flex;
+    border: 2px solid grey;
+    justify-content: center;/*x coordinate*/
+    align-items: center;/*y coordinate*/
+   }
+   .item4a{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 6;
+   }
+   .item4b{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 2;
+   }
+   .item4c{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 2;
+   }
+   .containere{
+    display:flex;
+    border: 2px solid grey;
+    justify-content: center;/*x coordinate*/
+    align-items: center;/*y coordinate*/
+   }
+   .item5a{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 1;
+   }
+   .item5b{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 6;
+   }
+   .item5c{
+    background-color: darkslategray;
+    border:2px solid black;
+    padding:12px;
+    margin:12px;
+    height:50px;
+    width:122px;
+    flex-grow: 1;
+   }
